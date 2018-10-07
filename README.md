@@ -1,3 +1,2 @@
 # Casino
-C++ project
-Beginner's Project
+C++ Beginner's Project
